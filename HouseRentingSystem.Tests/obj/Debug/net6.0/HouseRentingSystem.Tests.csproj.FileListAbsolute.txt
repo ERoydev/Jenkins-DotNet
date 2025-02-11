@@ -356,3 +356,4 @@ C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkin
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json

@@ -283,3 +283,4 @@ C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkin
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.pdb
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.genruntimeconfig.cache
 C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.sourcelink.json
