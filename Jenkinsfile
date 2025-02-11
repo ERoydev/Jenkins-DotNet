@@ -7,7 +7,7 @@ pipeline {
         stage('restore') {
             steps {
                 script { // This is Optional buf if i want o run two commands then i need script 
-                    sh 'dotnet restore'
+                    powershell 'dotnet restore'
                     // sh 'dotnet build' // If i have this i will need the script
 
                 }
@@ -16,13 +16,13 @@ pipeline {
 
         stage('build') {
             steps {
-                sh 'dotnet build'
+                powershell 'dotnet build'
             }
         }
 
         stage('test') {
             steps {
-                sh 'dotnet test'
+                powershell 'dotnet test'
             }
         }
     }
