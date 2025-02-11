@@ -1,0 +1,12 @@
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\ProgrammingStuff\10-Exercise-CI-CD-Jenkins-Resources\10-Exercise-CI-CD-Jenkins-Resources\04-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
